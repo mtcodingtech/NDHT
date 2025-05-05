@@ -1,0 +1,16 @@
+$main-color: blue;
+$text-color: #f2e7e7;
+
+.main-container {
+  h1 {
+    background-color: $main-color;
+    color: $text-color;
+  }
+  p {
+    color: $main-color;
+  }
+  button {
+    background-color: $main-color;
+    color: $text-color;
+  }
+}
